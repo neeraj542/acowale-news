@@ -15,7 +15,7 @@ For robust application performance, Daily News incorporates error handling and l
 
 1. **Clone the Repository**: 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/neeraj542/acowale-news.git
    cd daily-news
    ```
 
